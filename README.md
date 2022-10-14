@@ -1,4 +1,4 @@
-# bruteforce-lists
+# Fuzzing
 
 
 
